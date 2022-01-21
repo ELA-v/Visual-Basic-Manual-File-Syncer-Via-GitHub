@@ -3,7 +3,7 @@ A manual file syncer via GitHub in visual basic. Originally written to sync ULTR
 
 
 
-Follow the directions in each .vbs file. You're intended to run DownloadSave.vbs followed by ExtractSave.vbs, and then UploadSaves.vbs once you want to upload them to GitHub. This runs natively on Windows without the need for third party software.
+Ensure that you strictly follow the directions in each .vbs file. You're intended to run DownloadSave.vbs followed by ExtractSave.vbs, and then UploadSaves.vbs once you want to upload them to GitHub. This runs natively on Windows without the need for third party software.
 
 I have not yet tested the publically modified version of this code, so write a new issue if it does not work as intended or is not clear enough.
 
